@@ -1,6 +1,8 @@
 <h1 align = "center">Calculo IMC em React</h1>
 <h1 align="center">
     <a href="https://reactjs.org/">🔗 React</a>
+    |
+    <a href="https://vitejs.dev/">🔗 Vite</a>
 </h1>
 
 ### Finalidade da aplicação
