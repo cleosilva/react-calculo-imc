@@ -8,6 +8,12 @@
 ### Finalidade da aplicação
 A aplicação tem como finalidade efetuar o cálculo do IMC por meio de informações de peso e altura fornecidos pelo usuário. Retornando cards que indicam o IMC mais o level que a pessoa se encontra. O levels estão divididos em: Magreza, Normal, Sobrepeso e Obesidade. 
 
+### Versionamento
+Plataforma: Github
+
+### Demonstração da aplicação
+![imc-gif](https://user-images.githubusercontent.com/82469705/185495616-175f7ffa-a864-4805-901f-4d42ef19704d.gif)
+
 ### 🎲 Clonando a aplicação
 
 ```bash
@@ -25,4 +31,9 @@ $ npm run dev
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+
+### Deploy da aplicação na plataforma Netlify
+https://react-calculo-imc.netlify.app/
+
+
 
